@@ -73,3 +73,4 @@ unknowns clearly.
 This setup works for software projects, tools, websites, games, experiments,
 and internal systems. The game-development sections are optional examples, not
 requirements.
+# StandardProjectSetup
